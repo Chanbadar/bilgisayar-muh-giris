@@ -1,2 +1,4 @@
 # bilgisayar-muh-giris
-BMG Ödevi
+BMG Ödevi 
+
+Arda Kumartaşlıoğlu 16008122022
