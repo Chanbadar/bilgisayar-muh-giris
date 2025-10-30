@@ -26,6 +26,10 @@ int main ()
 		} else {printf("Hata: Sifira bolme!\n");}
 
 		break;
+		case '*':
+			sonuc = sayi1 * sayi2;
+			printf("%.2lf - %.2lf = %.2lf\n",sayi1,sayi2,sonuc);
+
 		
 
 
